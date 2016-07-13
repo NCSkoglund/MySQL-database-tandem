@@ -1,4 +1,11 @@
-## Tandem DB Usage ##
+# Tandem News 
+##### News In Perspective
+
+### Overview
+
+  Tandem-DB Repo provides persistent storage for the Tandem News Project. 
+
+## Getting Started
 
 1.  To use, simply run in your project directory:
 
